@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.10.0
+pydantic-settings==2.6.0
+sentence-transformers==3.3.1
+qdrant-client==1.12.1
+redis[asyncio]==5.2.0
+numpy==1.26.4
+aiohttp==3.11.0
+pdfplumber==0.11.4
+openai==1.57.0
+anthropic==0.40.0
+pytest==8.3.0
+pytest-asyncio==0.24.0
